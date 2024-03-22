@@ -1,0 +1,6 @@
+[submodule "Fit-A-Pet-backend"]
+	path = Fit-A-Pet-backend
+	url = https://github.com/2024-Fit-A-Pet/Fit-A-Pet-backend.git
+[submodule "Fit-A-Pet-frontend"]
+	path = Fit-A-Pet-frontend
+	url = https://github.com/2024-Fit-A-Pet/Fit-A-Pet-frontend.git
