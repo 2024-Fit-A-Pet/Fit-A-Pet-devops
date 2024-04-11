@@ -1,6 +1,7 @@
 # Compiled class file
 *.class
 data/grafana/
+data/prometheus/volume/
 # Log file
 *.log
 
